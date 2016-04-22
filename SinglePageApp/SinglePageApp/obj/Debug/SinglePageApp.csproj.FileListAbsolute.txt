@@ -1,0 +1,126 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\SinglePageApp.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\SinglePageApp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\SinglePageApp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Net.Http.Formatting.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Helpers.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Http.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Http.WebHost.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Mvc.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Net.Http.Formatting.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Helpers.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Http.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Http.WebHost.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Mvc.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Optimization.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\bin\Antlr3.Runtime.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\obj\Debug\SinglePageApp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\obj\Debug\SinglePageApp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SinglePageApp\SinglePageApp\obj\Debug\SinglePageApp.pdb
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\ApplicationInsights.config
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\csc.exe
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\vbc.exe
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\SinglePageApp.dll.config
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\SinglePageApp.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\SinglePageApp.pdb
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Antlr3.Runtime.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\EntityFramework.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\EntityFramework.SqlServer.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.Web.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Newtonsoft.Json.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Net.Http.Formatting.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Helpers.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Http.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Http.WebHost.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Mvc.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Optimization.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Razor.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\WebGrease.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\EntityFramework.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\EntityFramework.SqlServer.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.Web.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Newtonsoft.Json.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Net.Http.Formatting.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Helpers.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Http.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Http.WebHost.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Mvc.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Optimization.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.Razor.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\bin\Antlr3.Runtime.pdb
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\obj\Debug\SinglePageApp.csprojResolveAssemblyReference.cache
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\obj\Debug\SinglePageApp.dll
+C:\Users\GabrielAntonio\Documents\DocumentosAcademicos\8voSemestre\LabWeb\SinglePageApp\SinglePageApp\SinglePageApp\obj\Debug\SinglePageApp.pdb
